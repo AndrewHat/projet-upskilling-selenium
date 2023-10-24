@@ -83,7 +83,6 @@ public class TestSwagLabs {
 
         // Assert
         Assert.assertEquals(actualCartTitle, expectedTitle, "Wrong Page");
-        Assert.fail("Je test le screenshot :)");
     }
 
     @AfterMethod
